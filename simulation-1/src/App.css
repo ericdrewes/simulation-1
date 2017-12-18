@@ -1,0 +1,65 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #AB2A19;
+  height: 80px;
+  padding: 20px;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.shelf {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  border: 0;
+  width:500px;
+  height:60px;
+  background-color: #D34735;
+  color: white;
+  margin: 10px;
+  border-radius: 3px;
+  font-size: 35px;
+  font-weight: bold;
+  display: flex;
+  padding-left: 100px;
+  
+}
+
+/* .header1 {
+  height: 350px;
+  display: flex;
+  align-items: space-around;
+  background-color: grey;
+} */
+
+img {
+  width:80px;
+  height:80px;
+}
+.headerStuff {
+  display: flex;
+  padding-left: 30vw;
+  align-items:center;
+  height:70px;
+}
+.textHeader {
+  font-size: 65px;
+  font-family: 'Open Sans';
+}
+
+
+@import url(https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans);
